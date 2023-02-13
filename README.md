@@ -1,2 +1,2 @@
 # git_practice
-https://giphy.com/gifs/thebachelorette-bachelorette-the-tayshia-adams-IBD0w3xTCj3qe8Oj4R
+https://github.com/raguilarsoriano/git_practice/issues/1#issue-1583031826
